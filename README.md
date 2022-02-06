@@ -35,4 +35,4 @@ Support for hardware COS is provided for future applications.
 
 Ferrite beads are used to reduce RFI/EMI.
 
-The board is designed to be installed in a Hammond 1455K1201 case. End plates are still to be designed.
+The board is designed to be installed in a Hammond 1455K1201 case. Actually, it will fit the 1455J1201 (which is thinner). The -1202 version is less expensive (plastic end panels, vs aluminum ones), if you are going to be replacing the end panels with laser cut ones. End plates are still to be designed.
