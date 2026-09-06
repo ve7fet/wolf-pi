@@ -193,6 +193,7 @@ int main()
     AIN3vout = (adc[3]*(PGA/32767))*((R12+R13)/R13);
     printf("AIN3vout = %.2f\n", AIN3vout);
 ```
+See https://github.com/ve7fet/wolfpiADC for the full library.
 
 ### Sound Card
 You can use `alsamixer` to set the audio levels. Use `sudo alsactl store` to save settings in `/var/lib/alsa/asound.state` (*remember to backup this file*).
